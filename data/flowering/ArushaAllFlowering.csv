@@ -1,0 +1,758 @@
+FlowerID,Genotype,Plant_Sex,Flowering_Date,Location
+136514,ITC1455-Mchare Mlelembo,female,2018-04-05,Arusha
+136642,ITC1455-Mchare Mlelembo,female,2018-04-05,Arusha
+136650,Huti-white,female,2018-04-06,Arusha
+136468,ITC1460,male,2018-04-12,Arusha
+136697,ITC1468,female,2018-04-16,Arusha
+136445,ITC1468,female,2018-04-23,Arusha
+136718,ITC1468,female,2018-05-17,Arusha
+136667,ITC1468,female,2018-05-18,Arusha
+136478,Mchare Laini,female,2018-07-19,Arusha
+136675,ITC1455-Mchare Mlelembo,female,2018-07-23,Arusha
+136713,ITC1468,female,2018-07-24,Arusha
+136673,ITC1468,female,2018-07-24,Arusha
+136619,ITC1468,female,2018-07-27,Arusha
+136360,ITC1468,female,2018-07-30,Arusha
+136540,ITC1455-Mchare Mlelembo,female,2018-08-06,Arusha
+136497,ITC1468,female,2018-08-09,Arusha
+136571,ITC1455-Mchare Mlelembo,female,2018-08-09,Arusha
+16NM_ITC1455-MchareMlelembo_plot426_r21c6,ITC1455-Mchare Mlelembo,female,2018-08-15,Arusha
+16NM_ITC1455-MchareMlelembo_plot370_r18c9,ITC1455-Mchare Mlelembo,female,2018-08-15,Arusha
+16NM_ITC1455-MchareMlelembo_plot416_r20c5,ITC1455-Mchare Mlelembo,female,2018-09-03,Arusha
+16NM_ITC1455-MchareMlelembo_plot415_r20c6,ITC1455-Mchare Mlelembo,female,2018-08-30,Arusha
+16NM_ITC1468-Kahuti_plot5_r1c5,ITC1468,female,2018-09-07,Arusha
+16NM_ITC1468-Kahuti_plot16_r1c16,ITC1468,female,2018-09-10,Arusha
+16NM_ITC1455-MchareMlelembo_plot430_r21c10,ITC1455-Mchare Mlelembo,female,2018-09-11,Arusha
+16NM_ITC1455-MchareMlelembo_plot412_r20c9,ITC1455-Mchare Mlelembo,female,2018-09-11,Arusha
+16NM_ITC1460-IjihuInkundu_plot317_r16c20,ITC1460,female,2018-09-11,Arusha
+16NM_MchareLaini_plot269_r13c17,Mchare Laini,female,2018-09-11,Arusha
+16NM_ITC1468-Kahuti_plot10_r1c10,ITC1468,female,2018-09-13,Arusha
+16NM_ITC1468-Kahuti_plot15_r1c15,ITC1468,female,2018-09-18,Arusha
+16NM_ITC1468-Kahuti_plot59_r3c17,ITC1468,female,2018-09-18,Arusha
+16NM_ITC1455-MchareMlelembo_plot402_r20c19,ITC1455-Mchare Mlelembo,female,2018-09-20,Arusha
+16NM_ITC1468-Kahuti_plot7_r1c7,ITC1468,female,2018-09-24,Arusha
+16NM_Huti-white_plot209r10c2,Huti-white,female,2018-09-24,Arusha
+16NM_MchareLaini_plot192_r10c19,Mchare Laini,female,2018-09-25,Arusha
+16NM_ITC1468-Kahuti_plot99_r5c15,ITC1468,female,2018-09-26,Arusha
+16NM_MchareLaini_plot272_r13c20,Mchare Laini,female,2018-09-26,Arusha
+16NM_ITC1468-Kahuti_plot12_r1c12,ITC1468,female,2018-09-26,Arusha
+16NM_ITC1455-MchareMlelembo_plot417_r20c4,ITC1455-Mchare Mlelembo,female,2018-09-26,Arusha
+16NM_ITC1455-MchareMlelembo_plot424_r21c4,ITC1455-Mchare Mlelembo,female,2018-09-27,Arusha
+16NM_ITC1468-Kahuti_plot13_r1c13,ITC1468,female,2018-09-27,Arusha
+16NM_ITC1468-Kahuti_plot13_r1c13,ITC1468,female,2018-09-28,Arusha
+16NM_ITC1468-Kahuti_plot28_r2c15,ITC1468,female,2018-09-28,Arusha
+16NM_ITC1468-Kahuti_plot97_r5c13,ITC1468,female,2018-09-28,Arusha
+16NM_ITC1468-Kahuti_plot69_r4c16,ITC1468,female,2018-09-28,Arusha
+16NM_ITC1468-Kahuti_plot11_r1c11,ITC1468,female,2018-10-01,Arusha
+16NM_ITC1468-Kahuti_plot54_r3c12,ITC1468,female,2018-10-01,Arusha
+16NM_ITC1468-Kahuti_plot69_r4c16,ITC1468,female,2018-10-01,Arusha
+16NM_ITC1455-MchareMlelembo_plot405_r20c16,ITC1455-Mchare Mlelembo,female,2018-10-01,Arusha
+16NM_ITC1468-Kahuti_plot55_r3c13,ITC1468,female,2018-10-02,Arusha
+16NM_MchareLaini_plot216_r11c6,Mchare Laini,female,2018-10-02,Arusha
+16NM_ITC1460-IjihuInkundu_plot289_r14c6,ITC1460,female,2018-10-02,Arusha
+16NM_ITC1460-IjihuInkundu_plot307_r15c13,ITC1460,female,2018-10-02,Arusha
+16NM_ITC1468-Kahuti_plot31_r2c12,ITC1468,female,2018-10-04,Arusha
+16NM_ITC1468-Kahuti_plot83_r4c2,ITC1468,female,2018-10-05,Arusha
+16NM_ITC1455-MchareMlelembo_plot408_r20c13,ITC1455-Mchare Mlelembo,female,2018-10-05,Arusha
+16NM_ITC1455-MchareMlelembo_plot407_r20c14,ITC1455-Mchare Mlelembo,female,2018-10-05,Arusha
+16NM_ITC1455-MchareMlelembo_plot436_r21c16,ITC1455-Mchare Mlelembo,female,2018-10-05,Arusha
+16NM_ITC1460-IjihuInkundu_plot296_r15c2,ITC1460,female,2018-10-05,Arusha
+16NM_ITC1460-IjihuInkundu_plot292_r14c3,ITC1460,female,2018-10-08,Arusha
+16NM_ITC1468-Kahuti_plot96_r5c12,ITC1468,female,2018-10-10,Arusha
+16NM_Huti-white_plot187_r9c19,Huti-white,female,2018-10-11,Arusha
+16NM_ITC1455-MchareMlelembo_plot438_r21c18,ITC1455-Mchare Mlelembo,female,2018-10-15,Arusha
+16NM_ITC1468-Kahuti_plot58_r3c16,ITC1468,female,2018-10-15,Arusha
+16NM_ITC1468-Kahuti_plot96_r5c12,ITC1468,female,2018-10-15,Arusha
+16NM_ITC1460-IjihuInkundu_plot338_r17c2,ITC1460,female,2018-10-16,Arusha
+16NM_ITC1460-IjihuInkundu_plot354_r17c18,ITC1460,female,2018-10-17,Arusha
+16NM_ITC1460-IjihuInkundu_plot353_r17c17,ITC1460,female,2018-10-17,Arusha
+16NM_ITC1460-IjihuInkundu_plot322_r16c15,ITC1460,female,2018-10-18,Arusha
+16NM_ITC1460-IjihuInkundu_plot283_r14c12,ITC1460,female,2018-10-18,Arusha
+16NM_ITC1460-IjihuInkundu_plot349_r17c13,ITC1460,female,2018-10-18,Arusha
+16NM_ITC1468-Kahuti_plot29_r2c14,ITC1468,female,2018-10-18,Arusha
+16NM_ITC1460-IjihuInkundu_plot310_r15c16,ITC1460,female,2018-10-22,Arusha
+16NM_ITC1455-MchareMlelembo_plot404_r20c17,ITC1455-Mchare Mlelembo,female,2018-10-22,Arusha
+16NM_ITC1455-MchareMlelembo_plot429_r21c9,ITC1455-Mchare Mlelembo,female,2018-10-22,Arusha
+16NM_ITC1455-MchareMlelembo_plot429_r21c9,ITC1455-Mchare Mlelembo,female,2018-10-24,Arusha
+16NM_ITC1460-IjihuInkundu_plot328_r16c9,ITC1460,female,2018-10-24,Arusha
+16NM_Huti-white_plot130_r7c4,Huti-white,female,2018-10-24,Arusha
+16NM_ITC1460-IjihuInkundu_plot301_r15c7,ITC1460,female,2018-10-26,Arusha
+16NM_ITC1468-Kahuti_plot82_r4c3,ITC1468,female,2018-10-26,Arusha
+16NM_Huti-white_plot125_r6c2,Huti-white,female,2018-10-26,Arusha
+16NM_Huti-white_plot129_r7c3,Huti-white,female,2018-10-26,Arusha
+16NM_ITC1468-Kahuti_plot4_r1c4,ITC1468,female,2018-10-26,Arusha
+16NM_ITC1468-Kahuti_plot72_r4c13,ITC1468,female,2018-10-26,Arusha
+16NM_ITC1455-MchareMlelembo_plot403_r20c18,ITC1455-Mchare Mlelembo,female,2018-10-29,Arusha
+16NM_MchareLaini_plot235_r12c18,Mchare Laini,female,2018-10-29,Arusha
+16NM_ITC1468-Kahuti_plot4_r1c4,ITC1468,female,2018-10-30,Arusha
+16NM_MchareLaini_plot190_r10c21,Mchare Laini,female,2018-10-30,Arusha
+16NM_ITC1460-IjihuInkundu_plot345_r17c9,ITC1460,female,2018-11-01,Arusha
+16NM_ITC1460-IjihuInkundu_plot297_r15c3,ITC1460,female,2018-11-01,Arusha
+16NM_ITC1460-IjihuInkundu_plot290_r14c5,ITC1460,female,2018-11-02,Arusha
+16NM_ITC1468-Kahuti_plot32_r2c11,ITC1468,female,2018-11-02,Arusha
+16NM_MchareLaini_plot259_r13c7,Mchare Laini,female,2018-11-06,Arusha
+16NM_ITC1468-Kahuti_plot71_r4c14,ITC1468,female,2018-11-06,Arusha
+16NM_Huti-white_plot140_r7c14,Huti-white,female,2018-11-06,Arusha
+16NM_Huti-white_plot111_r6c16,Huti-white,female,2018-11-06,Arusha
+16NM_MchareLaini_plot255_r13c3,Mchare Laini,female,2018-11-05,Arusha
+16NM_Huti-white_plot106_r6c21,Huti-white,female,2018-11-05,Arusha
+16NM_Huti-white_plot124_r6c3,Huti-white,female,2018-11-07,Arusha
+16NM_MchareLaini_plot249_r12c4,Mchare Laini,female,2018-11-08,Arusha
+16NM_Huti-white_plot107_r6c20,Huti-white,female,2018-11-09,Arusha
+16NM_ITC1468-Kahuti_plot95_r5c11,ITC1468,female,2018-11-12,Arusha
+16NM_ITC1468-Kahuti_plot21_r1c21,ITC1468,female,2018-11-13,Arusha
+16NM_ITC1460-IjihuInkundu_plot351_r17c15,ITC1460,female,2018-11-13,Arusha
+16NM_ITC1460-IjihuInkundu_plot293_r14c2,ITC1460,female,2018-11-13,Arusha
+16NM_ITC1460-IjihuInkundu_plot335_r16c2,ITC1460,female,2018-11-13,Arusha
+16NM_Huti-white_plot673r33c1,Huti-white,female,2018-11-10,Arusha
+16NM_ITC1460-IjihuInkundu_plot308_r15c14,ITC1460,female,2018-11-15,Arusha
+16NM_Huti-white_plot757r37c1,Huti-white,female,2018-11-15,Arusha
+16NM_ITC1468-Kahuti_plot62_r3c20,ITC1468,female,2018-11-19,Arusha
+16NM_MchareLaini_plot257_r13c5,Mchare Laini,female,2018-11-19,Arusha
+16NM_ITC1468-Kahuti_plot81_r4c4,ITC1468,female,2018-11-21,Arusha
+16NM_Huti-white_plot122_r6c5,Huti-white,female,2018-11-21,Arusha
+16NM_ITC1468-Kahuti_plot27_r2c16,ITC1468,female,2018-11-26,Arusha
+16NM_ITC1468-Kahuti_plot56_r3c14,ITC1468,female,2018-11-27,Arusha
+16NM_MchareLaini_plot266_r13c14,Mchare Laini,female,2018-11-28,Arusha
+16NM_Huti-white_plot715r35c1,Huti-white,female,2018-11-28,Arusha
+16NM_Huti-white_plot183_r9c15,Huti-white,female,2018-11-30,Arusha
+16NM_Huti-white_plot19r1c19,Huti-white,female,2018-11-30,Arusha
+16NM_ITC1460-IjihuInkundu_plot291_r14c4,ITC1460,female,2018-12-01,Arusha
+16NM_Huti-white_plot180_r9c12,Huti-white,female,2018-12-01,Arusha
+16NM_Huti-white_plot180_r9c12,Huti-white,female,2018-12-03,Arusha
+16NM_ITC1468-Kahuti_plot75_r4c10,ITC1468,female,2018-12-04,Arusha
+16NM_MchareLaini_plot270_r13c18,Mchare Laini,female,2018-12-05,Arusha
+16NM_ITC1460-IjihuInkundu_plot312_r15c18,ITC1460,female,2018-12-05,Arusha
+16NM_Huti-white_plot151_r8c18,Huti-white,female,2018-12-10,Arusha
+16NM_ITC1468-Kahuti_plot49_r3c7,ITC1468,female,2018-12-10,Arusha
+16NM_ITC1460-IjihuInkundu_plot344_r17c8,ITC1460,female,2018-12-10,Arusha
+16NM_Huti-white_plot211r11c1,Huti-white,female,2018-12-10,Arusha
+16NM_Huti-white_plot714r34c1,Huti-white,female,2018-12-10,Arusha
+16NM_ITC1455-MchareMlelembo_plot400_r20c21,ITC1455-Mchare Mlelembo,female,2018-12-11,Arusha
+16NM_ITC1468-Kahuti_plot86_r5c2,ITC1468,female,2018-12-12,Arusha
+16NM_ITC1468-Kahuti_plot48_r3c6,ITC1468,female,2018-12-14,Arusha
+16NM_ITC1468-Kahuti_plot24_r2c19,ITC1468,female,2018-12-14,Arusha
+16NM_ITC1468-Kahuti_plot24_r2c19,ITC1468,female,2018-12-17,Arusha
+16NM_ITC1468-Kahuti_plot50_r3c8,ITC1468,female,2018-12-19,Arusha
+16NM_ITC1460-IjihuInkundu_plot278_r14c17,ITC1460,female,2018-12-21,Arusha
+16NM_Huti-white_plot756r36c1,Huti-white,female,2018-12-21,Arusha
+16NM_ITC1460-IjihuInkundu_plot316_r16c21,ITC1460,female,2018-12-28,Arusha
+16NM_ITC1460-IjihuInkundu_plot352_r17c16,ITC1460,female,2018-12-28,Arusha
+16NM_MchareLaini_plot251_r12c2,Mchare Laini,female,2018-12-28,Arusha
+16NM_MchareLaini_plot251_r12c2,Mchare Laini,female,2019-01-02,Arusha
+16NM_Huti-white_plot189_r9c21,Huti-white,female,2019-01-04,Arusha
+16NM_ITC1468-Kahuti_plot102_r5c18,ITC1468,female,2019-01-07,Arusha
+16NM_ITC1460-IjihuInkundu_plot311_r15c17,ITC1460,female,2019-01-07,Arusha
+16NM_ITC1468-Kahuti_plot35_r2c8,ITC1468,female,2019-01-07,Arusha
+16NM_ITC1455-MchareMlelembo_plot382_r19c4,ITC1455-Mchare Mlelembo,female,2019-01-07,Arusha
+16NM_Huti-white_plot504r24c1,Huti-white,female,2019-01-09,Arusha
+16NM_ITC1460-IjihuInkundu_plot302_r15c8,ITC1460,female,2019-01-10,Arusha
+16NM_ITC1455-MchareMlelembo_plot438_r21c18,ITC1455-Mchare Mlelembo,female,2019-01-10,Arusha
+16NM_Huti-white_plot672r32c1,Huti-white,female,2019-01-10,Arusha
+16NM_MchareLaini_plot228_r11c18,Mchare Laini,female,2019-01-11,Arusha
+16NM_MchareLaini_plot194_r10c17,Mchare Laini,female,2019-01-11,Arusha
+16NM_MchareLaini_plot191_r10c20,Mchare Laini,female,2019-01-11,Arusha
+16NM_MchareLaini_plot191_r10c20,Mchare Laini,female,2019-01-14,Arusha
+16NM_Huti-white_plot210r10c1,Huti-white,female,2019-01-14,Arusha
+16NM_Huti-white_plot152_r8c17,Huti-white,female,2019-01-15,Arusha
+16NM_Huti-white_plot105r5c21,Huti-white,female,2019-01-15,Arusha
+16NM_ITC1468-Kahuti_plot88_r5c4,ITC1468,female,2019-01-21,Arusha
+16NM_MchareLaini_plot217_r11c7,Mchare Laini,female,2019-01-21,Arusha
+16NM_MchareLaini_plot246_r12c7,Mchare Laini,female,2019-01-21,Arusha
+16NM_ITC1468-Kahuti_plot94_r5c10,ITC1468,female,2019-01-21,Arusha
+16NM_Huti-white_plot190r10c21,Huti-white,female,2019-01-21,Arusha
+16NM_ITC1460-IjihuInkundu_plot355_r17c19,ITC1460,female,2019-01-21,Arusha
+16NM_ITC1455-MchareMlelembo_plot361_r18c18,ITC1455-Mchare Mlelembo,female,2019-01-21,Arusha
+16NM_ITC1468-Kahuti_plot94_r5c10,ITC1468,female,2019-01-17,Arusha
+16NM_ITC1468-Kahuti_plot88_r5c4,ITC1468,female,2019-01-17,Arusha
+16NM_Huti-white_plot190r10c21,Huti-white,female,2019-01-17,Arusha
+16NM_Huti-white_plot315r15c21,Huti-white,female,2019-01-17,Arusha
+16NM_ITC1455-MchareMlelembo_plot361_r18c18,ITC1455-Mchare Mlelembo,female,2019-01-21,Arusha
+16NM_Huti-white_plot776r37c20,Huti-white,female,2019-01-22,Arusha
+16NM_Huti-white_plot148r8c21,Huti-white,female,2019-01-23,Arusha
+16NM_Huti-white_plot589r29c1,Huti-white,female,2019-01-23,Arusha
+16NM_Huti-white_plot547r27c1,Huti-white,female,2019-01-24,Arusha
+16NM_Huti-white_plot797r38c2,Huti-white,female,2019-01-28,Arusha
+16NM_Huti-white_plot109_r6c18,Huti-white,female,2019-01-29,Arusha
+16NM_ITC1468-Kahuti_plot41_r2c2,ITC1468,female,2019-01-30,Arusha
+16NM_ITC1468-Kahuti_plot41_r2c2,ITC1468,female,2019-01-30,Arusha
+16NM_Huti-white_plot274r14c21,Huti-white,female,2019-01-31,Arusha
+16NM_Huti-white_plot546r26c1,Huti-white,female,2019-01-31,Arusha
+16NM_Huti-white_plot379r19c1,Huti-white,female,2019-01-31,Arusha
+16NM_ITC1468-Kahuti_plot76_r4c9,ITC1468,female,2019-02-01,Arusha
+16NM_ITC1468-Kahuti_plot36_r2c7,ITC1468,female,2019-02-05,Arusha
+16NM_ITC1468-Kahuti_plot100_r5c16,ITC1468,female,2019-02-05,Arusha
+16NM_Huti-white_plot143_r7c17,Huti-white,female,2019-02-05,Arusha
+16NM_ITC1455-MchareMlelembo_plot371_r18c8,ITC1455-Mchare Mlelembo,female,2019-02-05,Arusha
+16NM_Huti-white_plot64r4c21,Huti-white,female,2019-02-07,Arusha
+16NM_Huti-white_plot716r35c2,Huti-white,female,2019-02-13,Arusha
+16NM_ITC1468-Kahuti_plot69_r4c16,ITC1468,female,2019-02-13,Arusha
+16NM_Huti-white_plot273r13c21,Huti-white,female,2019-02-14,Arusha
+16NM_Huti-white_plot630r30c1,Huti-white,female,2019-02-14,Arusha
+16NM_Huti-white_plot62r3c20,Huti-white,female,2019-02-14,Arusha
+16NM_ITC1468-Kahuti_plot105_r5c21,ITC1468,female,2019-02-15,Arusha
+16NM_Huti-white_plot146_r7c20,Huti-white,female,2019-02-15,Arusha
+16NM_Huti-white_plot104r5c20,Huti-white,female,2019-02-15,Arusha
+16NM_MchareLaini_plot212_r11c2,Mchare Laini,female,2019-02-18,Arusha
+16NM_MchareLaini_plot254_r13c2,Mchare Laini,female,2019-02-18,Arusha
+16NM_Huti-white_plot358r18c21,Huti-white,female,2019-02-18,Arusha
+16NM_Huti-white_plot337r17c1,Huti-white,female,2019-02-18,Arusha
+16NM_Huti-white_plot147r7c21,Huti-white,female,2019-02-19,Arusha
+16NM_Huti-white_plot755r36c2,Huti-white,female,2019-02-20,Arusha
+16NM_Huti-white_plot801r39c3,Huti-white,female,2019-02-20,Arusha
+16NM_Huti-white_plot147r7c21,Huti-white,female,2019-02-20,Arusha
+16NM_ITC1460-IjihuInkundu_plot280_r14c15,ITC1460,female,2019-02-20,Arusha
+16NM_ITC1460-IjihuInkundu_plot350_r17c14,ITC1460,female,2019-02-20,Arusha
+16NM_Huti-white_plot147r7c21,Huti-white,female,2019-02-21,Arusha
+16NM_Huti-white_plot796r38c3,Huti-white,female,2019-02-21,Arusha
+16NM_Huti-white_plot234r12c19,Huti-white,female,2019-02-22,Arusha
+16NM_Huti-white_plot106r6c21,Huti-white,female,2019-02-25,Arusha
+16NM_Huti-white_plot818r39c20,Huti-white,female,2019-02-25,Arusha
+16NM_Huti-white_plot800r39c2,Huti-white,female,2019-02-25,Arusha
+16NM_Huti-white_plot717r35c3,Huti-white,female,2019-02-25,Arusha
+16NM_Huti-white_plot150r8c19,Huti-white,female,2019-02-26,Arusha
+16NM_Huti-white_plot316r16c21,Huti-white,female,2019-02-26,Arusha
+16NM_Huti-white_plot734r35c20,Huti-white,female,2019-02-26,Arusha
+16NM_Huti-white_plot167r8c2,Huti-white,female,2019-02-27,Arusha
+16NM_MchareLaini_plot232_r12c21,Mchare Laini,female,2019-02-27,Arusha
+16NM_Huti-white_plot252r12c1,Huti-white,male,2019-02-28,Arusha
+16NM_ITC1455-MchareMlelembo_plot360_r18c19,ITC1455-Mchare Mlelembo,female,2019-02-28,Arusha
+16NM_ITC1468-Kahuti_plot63_r3c21,ITC1468,female,2019-03-01,Arusha
+16NM_ITC1468-Kahuti_plot63_r3c21,ITC1468,female,2019-03-04,Arusha
+16NM_Huti-white_plot65r4c20,Huti-white,female,2019-03-04,Arusha
+16NM_Huti-white_plot108r6c19,Huti-white,female,2019-03-04,Arusha
+16NM_MchareLaini_plot232_r12c21,Mchare Laini,female,2019-03-04,Arusha
+16NM_ITC1468-Kahuti_plot63_r3c21,ITC1468,female,2019-03-04,Arusha
+16NM_ITC1468-Kahuti_plot47_r3c5,ITC1468,female,2019-03-04,Arusha
+16NM_Huti-white_plot796r38c3,Huti-white,female,2019-03-06,Arusha
+16NM_ITC1455-MchareMlelembo_plot392_r19c14,ITC1455-Mchare Mlelembo,female,2019-03-11,Arusha
+16NM_Huti-white_plot272r13c20,Huti-white,female,2019-03-11,Arusha
+16NM_Huti-white_plot275r14c20,Huti-white,female,2019-03-11,Arusha
+16NM_Huti-white_plot317r16c20,Huti-white,female,2019-03-11,Arusha
+16NM_Huti-white_plot777r37c21,Huti-white,female,2019-03-11,Arusha
+16NM_Huti-white_plot116_r6c11,Huti-white,female,2019-03-12,Arusha
+16NM_Huti-white_plot146r7c20,Huti-white,female,2019-03-12,Arusha
+16NM_Huti-white_plot611r30c20,Huti-white,female,2019-03-12,Arusha
+16NM_Huti-white_plot650r31c20,Huti-white,female,2019-03-12,Arusha
+16NM_Huti-white_plot253r13c1,Huti-white,female,2019-03-12,Arusha
+16NM_Huti-white_plot141_r7c15,Huti-white,female,2019-03-13,Arusha
+16NM_ITC1468-Kahuti_plot60_r3c18,ITC1468,female,2019-03-13,Arusha
+16NM_Huti-white_plot650r31c20,Huti-white,female,2019-03-13,Arusha
+16NM_Huti-white_plot737r36c20,Huti-white,female,2019-03-13,Arusha
+16NM_Huti-white_plot611r30c20,Huti-white,female,2019-03-14,Arusha
+16NM_Huti-white_plot652r32c21,Huti-white,female,2019-03-15,Arusha
+16NM_Huti-white_plot462r22c1,Huti-white,female,2019-03-15,Arusha
+16NM_MchareLaini_plot249_r12c4,Mchare Laini,female,2019-03-19,Arusha
+16NM_Huti-white_plot84r4c1,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot168r8c1,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot462r22c1,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot775r37c19,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot652r32c21,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot611r30c20,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot401r20c20,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot61r3c19,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot188r9c20,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot232r12c21,Huti-white,male,2019-03-19,Arusha
+16NM_Huti-white_plot401r20c20,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot652r32c21,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot148_r8c21,Huti-white,female,2019-03-19,Arusha
+16NM_Huti-white_plot189r9c21,Huti-white,female,2019-03-19,Arusha
+16NM_ITC1468-Kahuti_plot93_r5c9,ITC1468,female,2019-03-21,Arusha
+16NM_Huti-white_plot112_r6c15,Huti-white,female,2019-03-21,Arusha
+16NM_ITC1468-Kahuti_plot37_r2c6,ITC1468,female,2019-03-21,Arusha
+16NM_Huti-white_plot527r26c20,Huti-white,female,2019-03-22,Arusha
+16NM_Huti-white_plot780r38c19,Huti-white,female,2019-03-22,Arusha
+16NM_ITC1468-Kahuti_plot65_r4c20,ITC1468,female,2019-03-27,Arusha
+16NM_Huti-white_plot144_r7c18,Huti-white,female,2019-03-27,Arusha
+16NM_Huti-white_plot608r29c20,Huti-white,female,2019-03-28,Arusha
+16NM_ITC1468-Kahuti_plot57_r3c15,ITC1468,female,2019-03-28,Arusha
+16NM_Huti-white_plot694r34c21,Huti-white,female,2019-03-29,Arusha
+16NM_Huti-white_plot736r36c21,Huti-white,female,2019-03-29,Arusha
+16NM_Huti-white_plot777r37c21,Huti-white,female,2019-04-01,Arusha
+16NM_Huti-white_plot231r11c21,Huti-white,female,2019-04-01,Arusha
+16NM_ITC1455-MchareMlelembo_plot439_r21c19,ITC1455-Mchare Mlelembo,female,2019-04-01,Arusha
+16NM_ITC1460-IjihuInkundu_plot315_r15c21,ITC1460,female,2019-04-01,Arusha
+16NM_Huti-white_plot163_r8c6,Huti-white,female,2019-04-01,Arusha
+16NM_Huti-white_plot548r27c2,Huti-white,female,2019-04-01,Arusha
+16NM_Huti-white_plot588r28c1,Huti-white,female,2019-04-01,Arusha
+16NM_Huti-white_plot163_r8c6,Huti-white,female,2019-04-02,Arusha
+16NM_Huti-white_plot588r28c1,Huti-white,female,2019-04-02,Arusha
+16NM_Huti-white_plot778r38c21,Huti-white,female,2019-04-02,Arusha
+16NM_Huti-white_plot23r2c20,Huti-white,female,2019-04-02,Arusha
+16NM_Huti-white_plot548r27c2,Huti-white,female,2019-04-03,Arusha
+16NM_Huti-white_plot692r33c20,Huti-white,female,2019-04-05,Arusha
+16NM_Huti-white_plot318r16c19,Huti-white,female,2019-04-08,Arusha
+16NM_Huti-white_plot713r34c2,Huti-white,female,2019-04-09,Arusha
+16NM_Huti-white_plot170r9c2,Huti-white,female,2019-04-10,Arusha
+16NM_ITC1455-MchareMlelembo_plot359_r18c20,ITC1455-Mchare Mlelembo,female,2019-04-15,Arusha
+16NM_Huti-white_plot569r28c20,Huti-white,female,2019-04-15,Arusha
+16NM_MchareLaini_plot207_r10c4,Mchare Laini,female,2019-04-16,Arusha
+16NM_ITC1460-IjihuInkundu_plot319_r16c18,ITC1460,female,2019-04-16,Arusha
+16NM_ITC1468-Kahuti_plot16_r1c16,ITC1468,female,2019-04-16,Arusha
+16NM_ITC1455-MchareMlelembo_plot359_r18c20,ITC1455-Mchare Mlelembo,female,2019-04-16,Arusha
+16NM_Huti-white_plot675r33c3,Huti-white,female,2019-04-16,Arusha
+16NM_ITC1468-Kahuti_plot89_r5c5,ITC1468,female,2019-04-18,Arusha
+16NM_ITC1468-Kahuti_plot20_r1c20,ITC1468,female,2019-04-18,Arusha
+16NM_Huti-white_plot568r28c21,Huti-white,female,2019-04-18,Arusha
+16NM_Huti-white_plot651r31c21,Huti-white,female,2019-04-18,Arusha
+16NM_Huti-white_plot86r5c2,Huti-white,female,2019-04-18,Arusha
+16NM_ITC1468-Kahuti_plot3_r1c3,ITC1468,female,2019-04-18,Arusha
+16NM_ITC1455-MchareMlelembo_plot397_r19c19,ITC1455-Mchare Mlelembo,female,2019-04-19,Arusha
+16NM_ITC1468-Kahuti_plot44_r3c2,ITC1468,female,2019-04-23,Arusha
+16NM_ITC1468-Kahuti_plot2_r1c2,ITC1468,female,2019-04-23,Arusha
+16NM_Huti-white_plot137_r7c11,Huti-white,female,2019-04-23,Arusha
+16NM_ITC1468-Kahuti_plot67_r4c18,ITC1468,female,2019-04-23,Arusha
+16NM_ITC1460-IjihuInkundu_plot356_r17c20,ITC1460,female,2019-04-23,Arusha
+16NM_Huti-white_plot691r33c19,Huti-white,female,2019-04-23,Arusha
+16NM_Huti-white_plot590r29c2,Huti-white,female,2019-04-23,Arusha
+16NM_Huti-white_plot421r21c1,Huti-white,female,2019-04-23,Arusha
+16NM_Huti-white_plot296r15c2,Huti-white,female,2019-04-23,Arusha
+16NM_Huti-white_plot251r12c2,Huti-white,female,2019-04-23,Arusha
+16NM_ITC1468-Kahuti_plot25_r2c18,ITC1468,female,2019-04-23,Arusha
+16NM_ITC1468-Kahuti_plot103_r5c19,ITC1468,female,2019-04-26,Arusha
+16NM_ITC1455-MchareMlelembo_plot367_r18c12,ITC1455-Mchare Mlelembo,female,2019-05-03,Arusha
+16NM_ITC1455-MchareMlelembo_plot391_r19c13,ITC1455-Mchare Mlelembo,female,2019-05-03,Arusha
+16NM_MchareLaini_plot247_r12c6,Mchare Laini,female,2019-05-06,Arusha
+16NM_ITC1460-IjihuInkundu_plot300_r15c6,ITC1460,female,2019-05-06,Arusha
+16NM_ITC1468-Kahuti_plot54_r3c12,ITC1468,female,2019-05-06,Arusha
+16NM_Huti-white_plot120_r6c7,Huti-white,female,2019-05-07,Arusha
+16NM_Huti-white_plot339r17c3,Huti-white,female,2019-05-08,Arusha
+16NM_ITC1468-Kahuti_plot61_r3c19,ITC1468,female,2019-05-13,Arusha
+16NM_Huti-white_plot567r27c21,Huti-white,female,2019-05-13,Arusha
+16NM_Huti-white_plot629r30c2,Huti-white,female,2019-05-13,Arusha
+16NM_Huti-white_plot169r9c1,Huti-white,female,2019-05-10,Arusha
+16NM_ITC1468-Kahuti_plot17_r1c17,ITC1468,female,2019-05-16,Arusha
+16NM_Huti-white_plot170_r9c2,Huti-white,female,2019-05-20,Arusha
+16NM_Huti-white_plot632r31c2,Huti-white,female,2019-05-22,Arusha
+16NM_Huti-white_plot336r16c1,Huti-white,female,2019-05-22,Arusha
+16NM_Huti-white_plot44r3c2,Huti-white,female,2019-05-22,Arusha
+16NM_Huti-white_plot41r2c2,Huti-white,female,2019-05-22,Arusha
+16NM_ITC1455-MchareMlelembo_plot437_r21c17,ITC1455-Mchare Mlelembo,female,2019-05-27,Arusha
+16NM_Huti-white_plot612r30c19,Huti-white,female,2019-05-27,Arusha
+16NM_ITC1460-IjihuInkundu_plot342_r17c6,ITC1460,female,2019-05-30,Arusha
+16NM_Huti-white_plot712r34c3,Huti-white,female,2019-06-03,Arusha
+16NM_Huti-white_plot380r19c2,Huti-white,female,2019-06-03,Arusha
+16NM_ITC1468-Kahuti_plot40_r2c3,ITC1468,female,2019-06-04,Arusha
+16NM_Huti-white_plot607r29c19,Huti-white,female,2019-06-04,Arusha
+16NM_Huti-white_plot610r30c21,Huti-white,female,2019-06-04,Arusha
+16NM_Huti-white_plot213r11c3,Huti-white,female,2019-06-06,Arusha
+16NM_Huti-white_plot525r25c21,Huti-white,female,2019-06-06,Arusha
+16NM_MchareLaini_plot273_r13c21,Mchare Laini,female,2019-06-06,Arusha
+16NM_Huti-white_plot377r18c2,Huti-white,female,2019-06-10,Arusha
+16NM_ITC1468-Kahuti_plot38_r2c5,ITC1468,female,2019-06-12,Arusha
+16NM_MchareLaini_plot203_r10c8,Mchare Laini,female,2019-06-12,Arusha
+16NM_Huti-white_plot443r22c20,Huti-white,female,2019-06-13,Arusha
+16NM_Huti-white_plot128r7c2,Huti-white,female,2019-06-13,Arusha
+16NM_Huti-white_plot335r16c2,Huti-white,female,2019-06-19,Arusha
+16NM_Huti-white_plot276r14c19,Huti-white,female,2019-06-19,Arusha
+16NM_Huti-white_plot483r23c21,Huti-white,female,2019-06-20,Arusha
+16NM_Huti-white_plot422r21c2,Huti-white,female,2019-06-24,Arusha
+16NM_Huti-white_plot378r18c1,Huti-white,female,2019-06-24,Arusha
+16NM_Huti-white_plot293r14c2,Huti-white,female,2019-06-24,Arusha
+16NM_Huti-white_plot127r7c1,Huti-white,female,2019-06-24,Arusha
+16NM_ITC1468-Kahuti_plot21_r1c21,ITC1468,female,2019-06-24,Arusha
+16NM_Huti-white_plot293r14c2,Huti-white,female,2019-06-25,Arusha
+16NM_ITC1468-Kahuti_plot39_r2c4,ITC1468,female,2019-06-25,Arusha
+16NM_Huti-white_plot160_r8c9,Huti-white,female,2019-06-25,Arusha
+16NM_Huti-white_plot125r6c2,Huti-white,female,2019-06-26,Arusha
+16NM_ITC1455-MchareMlelembo_plot390_r19c12,ITC1455-Mchare Mlelembo,female,2019-06-28,Arusha
+16NM_MchareLaini_plot269_r13c17,Mchare Laini,female,2019-07-05,Arusha
+16NM_ITC1455-MchareMlelembo_plot386_r19c8,ITC1455-Mchare Mlelembo,female,2019-07-05,Arusha
+16NM_ITC1455-MchareMlelembo_plot377_r18c2,ITC1455-Mchare Mlelembo,female,2019-07-05,Arusha
+16NM_Huti-white_plot132_r7c6,Huti-white,female,2019-07-08,Arusha
+16NM_Huti-white_plot484r24c21,Huti-white,female,2019-07-10,Arusha
+16NM_Huti-white_plot132_r7c6,Huti-white,female,2019-07-15,Arusha
+16NM_Huti-white_plot134_r7c8,Huti-white,female,2019-07-15,Arusha
+16NM_ITC1468-Kahuti_plot8_r1c8,ITC1468,female,2019-07-15,Arusha
+16NM_ITC1468-Kahuti_plot23_r2c20,ITC1468,female,2019-07-15,Arusha
+16NM_ITC1468-Kahuti_plot66_r4c19,ITC1468,female,2019-07-15,Arusha
+16NM_Huti-white_plot115_r6c12,Huti-white,female,2019-07-16,Arusha
+16NM_ITC1455-MchareMlelembo_plot389_r19c11,ITC1455-Mchare Mlelembo,female,2019-07-29,Arusha
+16NM_ITC1468-Kahuti_plot14_r1c14,ITC1468,female,2019-07-30,Arusha
+16NM_ITC1460-IjihuInkundu_plot283_r14c12,ITC1460,female,2019-07-30,Arusha
+16NM_Huti-white_plot463r23c1,Huti-white,female,2019-07-30,Arusha
+16NM_Huti-white_plot142_r7c16,Huti-white,female,2019-08-05,Arusha
+16NM_ITC1468-Kahuti_plot4_r1c4,ITC1468,female,2019-08-08,Arusha
+16NM_MchareLaini_plot209_r10c2,Mchare Laini,female,2019-08-08,Arusha
+16NM_ITC1468-Kahuti_plot22_r2c21,ITC1468,female,2019-08-08,Arusha
+16NM_Huti-white_plot334r16c3,Huti-white,female,2019-08-20,Arusha
+16NM_Huti-white_plot157_r8c12,Huti-white,female,2019-08-26,Arusha
+16NM_ITC1460-IjihuInkundu_plot305_r15c11,ITC1460,female,2019-08-26,Arusha
+16NM_ITC1455-MchareMlelembo_plot368_r18c11,ITC1455-Mchare Mlelembo,female,2019-08-27,Arusha
+16NM_Huti-white_plot167_r8c2,Huti-white,female,2019-08-28,Arusha
+16NM_Huti-white_plot167_r8c2,Huti-white,female,2019-08-29,Arusha
+16NM_ITC1468-Kahuti_plot30_r2c13,ITC1468,female,2019-08-30,Arusha
+16NM_Huti-white_plot461r22c2,Huti-white,female,2019-08-30,Arusha
+16NM_ITC1460-IjihuInkundu_plot282_r14c13,ITC1460,female,2019-09-02,Arusha
+16NM_Huti-white_plot118_r6c9,Huti-white,female,2019-09-09,Arusha
+16NM_ITC1460-IjihuInkundu_plot281_r14c14,ITC1460,female,2019-09-09,Arusha
+16NM_ITC1455-MchareMlelembo_plot363_r18c16,ITC1455-Mchare Mlelembo,female,2019-09-09,Arusha
+16NM_Huti-white_plot442r22c21,Huti-white,female,2019-09-09,Arusha
+16NM_ITC1468-Kahuti_plot9_r1c9,ITC1468,female,2019-09-13,Arusha
+16NM_MchareLaini_plot235_r12c18,Mchare Laini,female,2019-09-13,Arusha
+16NM_Huti-white_plot188_r9c20,Huti-white,female,2019-09-13,Arusha
+16NM_ITC1468-Kahuti_plot6_r1c6,ITC1468,female,2019-09-16,Arusha
+16NM_ITC1468-Kahuti_plot59_r3c17,ITC1468,female,2019-09-16,Arusha
+16NM_ITC1455-MchareMlelembo_plot393_r19c15,ITC1455-Mchare Mlelembo,female,2019-09-16,Arusha
+16NM_ITC1455-MchareMlelembo_plot406_r20c15,ITC1455-Mchare Mlelembo,female,2019-09-16,Arusha
+16NM_Huti-white_plot757r37c1,Huti-white,female,2019-09-19,Arusha
+16NM_Huti-white_plot715r35c1,Huti-white,female,2019-09-23,Arusha
+16NM_Huti-white_plot673r33c1,Huti-white,female,2019-09-25,Arusha
+16NM_Huti-white_plot64r4c21,Huti-white,female,2019-09-26,Arusha
+16NM_ITC1468-Kahuti_plot31_r2c12,ITC1468,female,2019-09-27,Arusha
+16NM_Huti-white_plot62r3c20,Huti-white,female,2019-09-27,Arusha
+16NM_ITC1468-Kahuti_plot12_r1c12,ITC1468,female,2019-09-30,Arusha
+16NM_ITC1468-Kahuti_plot13_r1c13,ITC1468,female,2019-09-30,Arusha
+16NM_MchareLaini_plot234_r12c19,Mchare Laini,female,2019-09-30,Arusha
+16NM_Huti-white_plot338r17c2,Huti-white,female,2019-09-30,Arusha
+16NM_Huti-white_plot208r10c3,Huti-white,female,2019-09-30,Arusha
+16NM_Huti-white_plot442r22c21,Huti-white,female,2019-09-30,Arusha
+NM2018_Huti-white_block_4b_plot237,Huti-white,female,2019-10-01,Arusha
+NM2018_Huti-white_block_4b_plot234,Huti-white,female,2019-10-01,Arusha
+16NM_Huti-white_plot64r4c21,Huti-white,female,2019-10-01,Arusha
+16NM_Huti-white_plot62r3c20,Huti-white,female,2019-10-02,Arusha
+16NM_ITC1455-MchareMlelembo_plot441_r21c21,ITC1455-Mchare Mlelembo,female,2019-10-07,Arusha
+NM2018_Huti-white_block_4b_plot112,Huti-white,female,2019-10-07,Arusha
+NM2018_Huti-white_block_4b_plot230,Huti-white,female,2019-10-07,Arusha
+NM2018_Huti-white_block_4b_plot231,Huti-white,female,2019-10-07,Arusha
+NM2018_Huti-white_block_4b_plot164,Huti-white,female,2019-10-07,Arusha
+16NM_ITC1455-MchareMlelembo_plot428_r21c8,ITC1455-Mchare Mlelembo,female,2019-10-08,Arusha
+16NM_Huti-white_plot819r39c21,Huti-white,female,2019-10-08,Arusha
+NM2018_Huti-white_block_4b_plot232,Huti-white,female,2019-10-08,Arusha
+16NM_ITC1468-Kahuti_plot15_r1c15,ITC1468,female,2019-10-09,Arusha
+16NM_ITC1455-MchareMlelembo_plot436_r21c16,ITC1455-Mchare Mlelembo,female,2019-10-09,Arusha
+NM2018_Huti-white_block_4b_plot232,Huti-white,female,2019-10-09,Arusha
+16NM_Huti-white_plot209r10c2,Huti-white,female,2019-10-11,Arusha
+NM2018_Huti-white_block_4_1001,Huti-white,female,2019-10-16,Arusha
+16NM_Huti-white_plot271r13c19,Huti-white,female,2019-10-21,Arusha
+16NM_Huti-white_plot229r11c19,Huti-white,female,2019-10-21,Arusha
+16NM_ITC1460-IjihuInkundu_plot293_r14c2,ITC1460,female,2019-10-21,Arusha
+16NM_ITC1468-Kahuti_plot5_r1c5,ITC1468,female,2019-10-25,Arusha
+16NM_ITC1468-Kahuti_plot5_r1c5,ITC1468,female,2019-10-28,Arusha
+16NM_ITC1468-Kahuti_plot86_r5c2,ITC1468,female,2019-10-28,Arusha
+16NM_ITC1468-Kahuti_plot8_r1c8,ITC1468,female,2019-10-28,Arusha
+NM2018_ITC1468-kahuti_block_4_1043,ITC1468-kahuti,female,2019-10-28,Arusha
+NM2018_ITC1468-kahuti_block_4_1032,ITC1468-kahuti,female,2019-10-28,Arusha
+NM2018_Huti-white_block_4b_plot233,Huti-white,female,2019-10-28,Arusha
+16NM_Huti-white_plot313r15c19,Huti-white,female,2019-10-30,Arusha
+16NM_Huti-white_plot125_r6c2,Huti-white,female,2019-10-30,Arusha
+16NM_Huti-white_plot504r24c1,Huti-white,female,2019-10-31,Arusha
+16NM_ITC1468-Kahuti_plot97_r5c13,ITC1468,female,2019-10-31,Arusha
+16NM_Huti-white_plot150_r8c19,Huti-white,female,2019-10-31,Arusha
+16NM_Huti-white_plot106r6c21,Huti-white,female,2019-10-31,Arusha
+16NM_Huti-white_plot313r15c19,Huti-white,female,2019-10-31,Arusha
+16NM_ITC1455-MchareMlelembo_plot400_r20c21,ITC1455-Mchare Mlelembo,female,2019-10-31,Arusha
+NM2018_Huti-white_block_4b_plot220,Huti-white,female,2019-10-31,Arusha
+16NM_ITC1468-Kahuti_plot99_r5c15,ITC1468,female,2019-11-01,Arusha
+16NM_ITC1468-Kahuti_plot82_r4c3,ITC1468,female,2019-11-01,Arusha
+16NM_Huti-white_plot123_r6c4,Huti-white,female,2019-11-04,Arusha
+NM2018_Huti-white_block_4b_plot223,Huti-white,female,2019-11-05,Arusha
+NM2018_Huti-white_block_4b_plot166,Huti-white,female,2019-11-05,Arusha
+NM2018_Huti-white_block_4b_plot224,Huti-white,female,2019-11-06,Arusha
+16NM_ITC1468-Kahuti_plot45_r3c3,ITC1468,female,2019-11-11,Arusha
+16NM_ITC1455-MchareMlelembo_plot398_r19c20,ITC1455-Mchare Mlelembo,female,2019-11-11,Arusha
+16NM_Huti-white_plot189r9c21,Huti-white,female,2019-11-11,Arusha
+NM2018_ITC1468-kahuti_block_4_1125,ITC1468-kahuti,female,2019-11-11,Arusha
+NM2018_Huti-white_block_4b_plot113,Huti-white,female,2019-11-11,Arusha
+NM2018_Huti-white_block_4b_plot58,Huti-white,female,2019-11-11,Arusha
+16NM_Huti-white_plot799r39c1,Huti-white,female,2019-11-11,Arusha
+NM2018_ITC1468-kahuti_block_4_1069,ITC1468-kahuti,female,2019-11-12,Arusha
+16NM_MchareLaini_plot232_r12c21,Mchare Laini,female,2019-11-13,Arusha
+16NM_ITC1460-IjihuInkundu_plot354_r17c18,ITC1460,female,2019-11-14,Arusha
+16NM_ITC1460-IjihuInkundu_plot322_r16c15,ITC1460,female,2019-11-14,Arusha
+NM2018_Huti-white_block_4b_plot106,Huti-white,female,2019-11-14,Arusha
+NM2018_ITC1468-kahuti_block_4_1069,ITC1468-kahuti,female,2019-11-14,Arusha
+16NM_ITC1460-IjihuInkundu_plot328_r16c9,ITC1460,female,2019-11-18,Arusha
+16NM_ITC1460-IjihuInkundu_plot340_r17c4,ITC1460,female,2019-11-18,Arusha
+16NM_Huti-white_plot546r26c1,Huti-white,female,2019-11-18,Arusha
+16NM_Huti-white_plot274r14c21,Huti-white,female,2019-11-18,Arusha
+16NM_MchareLaini_plot250_r12c3,Mchare Laini,female,2019-11-19,Arusha
+16NM_ITC1468-Kahuti_plot79_r4c6,ITC1468,female,2019-11-19,Arusha
+16NM_ITC1468-Kahuti_plot55_r3c13,ITC1468,female,2019-11-19,Arusha
+16NM_ITC1468-Kahuti_plot29_r2c14,ITC1468,female,2019-11-19,Arusha
+NM2018_ITC1468-kahuti_block_4_1012,ITC1468-kahuti,female,2019-11-19,Arusha
+16NM_ITC1468-Kahuti_plot88_r5c4,ITC1468,female,2019-11-20,Arusha
+16NM_MchareLaini_plot191_r10c20,Mchare Laini,female,2019-11-21,Arusha
+NM2018_Huti-white_block_4b_plot174,Huti-white,female,2019-11-21,Arusha
+NM2018_Huti-white_block_4b_plot162,Huti-white,female,2019-11-21,Arusha
+NM2018_Huti-white_block_4b_plot176,Huti-white,female,2019-11-21,Arusha
+16NM_ITC1455-MchareMlelembo_plot425_r21c5,ITC1455-Mchare Mlelembo,female,2019-12-02,Arusha
+16NM_Huti-white_plot1r1c1,Huti-white,female,2019-12-02,Arusha
+16NM_Huti-white_plot357r17c21,Huti-white,female,2019-12-02,Arusha
+16NM_Huti-white_plot358r18c21,Huti-white,female,2019-12-02,Arusha
+NM2018_Huti-white_block_4b_plot238,Huti-white,female,2019-12-02,Arusha
+NM2018_Huti-white_block_4b_plot104,Huti-white,female,2019-12-02,Arusha
+16NM_Huti-white_plot296r15c2,Huti-white,female,2019-11-15,Arusha
+16NM_Huti-white_plot44r3c2,Huti-white,female,2019-11-15,Arusha
+16NM_Huti-white_plot274r14c21,Huti-white,female,2019-11-15,Arusha
+NM2018_Huti-white_block_4b_plot52,Huti-white,female,2019-11-15,Arusha
+NM2018_Huti-white_block_4b_plot55,Huti-white,female,2019-11-15,Arusha
+16NM_ITC1455-MchareMlelembo_plot413_r20c8,ITC1455-Mchare Mlelembo,female,2019-12-05,Arusha
+16NM_Huti-white_plot316r16c21,Huti-white,female,2019-12-05,Arusha
+16NM_ITC1468-Kahuti_plot81_r4c4,ITC1468,female,2019-12-05,Arusha
+16NM_ITC1455-MchareMlelembo_plot401_r20c20,ITC1455-Mchare Mlelembo,female,2019-12-05,Arusha
+16NM_ITC1455-MchareMlelembo_plot405_r20c16,ITC1455-Mchare Mlelembo,female,2019-12-05,Arusha
+16NM_Huti-white_plot124_r6c3,Huti-white,female,2019-12-05,Arusha
+16NM_ITC1460-IjihuInkundu_plot304_r15c10,ITC1460,female,2019-12-06,Arusha
+16NM_ITC1460-IjihuInkundu_plot312_r15c18,ITC1460,female,2019-12-06,Arusha
+16NM_ITC1460-IjihuInkundu_plot355_r17c19,ITC1460,female,2019-12-06,Arusha
+16NM_ITC1455-MchareMlelembo_plot413_r20c8,ITC1455-Mchare Mlelembo,female,2019-12-06,Arusha
+NM2018_ITC1468-kahuti_block_4_1236,ITC1468-kahuti,female,2019-12-06,Arusha
+NM2018_Huti-white_block_4_1164,Huti-white,female,2019-12-06,Arusha
+NM2018_Huti-white_block_4b_plot123,Huti-white,female,2019-12-06,Arusha
+16NM_MchareLaini_plot216_r11c6,Mchare Laini,female,2019-12-10,Arusha
+NM2018_Huti-white_block_4b_plot123,Huti-white,female,2019-12-10,Arusha
+NM2018_Huti-white_block_4b_plot63,Huti-white,female,2019-12-10,Arusha
+16NM_ITC1468-Kahuti_plot72_r4c13,ITC1468,female,2019-12-11,Arusha
+16NM_ITC1468-Kahuti_plot94_r5c10,ITC1468,female,2019-12-23,Arusha
+16NM_ITC1468-Kahuti_plot50_r3c8,ITC1468,female,2019-12-23,Arusha
+16NM_ITC1468-Kahuti_plot75_r4c10,ITC1468,female,2019-12-23,Arusha
+NM2018_Huti-white_block_4b_plot167,Huti-white,female,2019-12-23,Arusha
+NM2018_Huti-white_block_4b_plot226,Huti-white,female,2019-12-23,Arusha
+NM2018_Huti-white_block_4b_plot111,Huti-white,female,2019-12-23,Arusha
+NM2018_ITC1468-kahuti_block_4_1219,ITC1468-kahuti,female,2019-12-24,Arusha
+NM2018_ITC1468-kahuti_block_4_1065,ITC1468-kahuti,female,2019-12-24,Arusha
+16NM_ITC1460-IjihuInkundu_plot311_r15c17,ITC1460,female,2019-12-24,Arusha
+16NM_ITC1455-MchareMlelembo_plot440_r21c20,ITC1455-Mchare Mlelembo,female,2019-12-27,Arusha
+16NM_Huti-white_plot210r10c1,Huti-white,female,2019-12-27,Arusha
+16NM_Huti-white_plot673r33c1,Huti-white,female,2019-12-27,Arusha
+NM2018_Huti-white_block_4b_plot44,Huti-white,female,2019-12-27,Arusha
+NM2018_ITC1468-kahuti_block_4_1229,ITC1468-kahuti,female,2019-12-27,Arusha
+NM2018_Huti-white_block_4_1013,Huti-white,female,2019-12-30,Arusha
+NM2018_Huti-white_block_4b_plot12,Huti-white,female,2019-12-30,Arusha
+NM2018_Huti-white_block_4b_plot66,Huti-white,female,2019-12-30,Arusha
+NM2018_Huti-white_block_4b_plot56,Huti-white,female,2019-12-30,Arusha
+16NM_ITC1455-MchareMlelembo_plot440_r21c20,ITC1455-Mchare Mlelembo,female,2019-12-30,Arusha
+16NM_Huti-white_plot798r38c1,Huti-white,female,2019-12-30,Arusha
+NM2018_Huti-white_block_4b_plot161,Huti-white,female,2019-12-31,Arusha
+16NM_ITC1460-IjihuInkundu_plot292_r14c3,ITC1460,female,2019-12-31,Arusha
+16NM_MchareLaini_plot257_r13c5,Mchare Laini,female,2019-12-31,Arusha
+NM2018_Huti-white_block_4b_plot171,Huti-white,female,2020-01-02,Arusha
+16NM_Huti-white_plot758r37c2,Huti-white,female,2020-01-03,Arusha
+16NM_ITC1468-Kahuti_plot48_r3c6,ITC1468,female,2020-01-06,Arusha
+16NM_Huti-white_plot137_r7c11,Huti-white,female,2020-01-06,Arusha
+16NM_ITC1455-MchareMlelembo_plot433_r21c13,ITC1455-Mchare Mlelembo,female,2020-01-06,Arusha
+NM2018_ITC1468-kahuti_block_4_1092,ITC1468-kahuti,female,2020-01-06,Arusha
+16NM_Huti-white_plot183_r9c15,Huti-white,female,2020-01-07,Arusha
+NM2018_Huti-white_block_4b_plot227,Huti-white,female,2020-01-07,Arusha
+NM2018_Huti-white_block_4b_plot229,Huti-white,female,2020-01-07,Arusha
+NM2018_Huti-white_block_4_1021,Huti-white,female,2020-01-07,Arusha
+NM2018_Huti-white_block_4_1020,Huti-white,female,2020-01-07,Arusha
+16NM_ITC1468-Kahuti_plot48_r3c6,ITC1468,female,2020-01-08,Arusha
+16NM_ITC1468-Kahuti_plot102_r5c18,ITC1468,female,2020-01-08,Arusha
+16NM_ITC1460-IjihuInkundu_plot291_r14c4,ITC1460,female,2020-01-08,Arusha
+16NM_Huti-white_plot65r4c20,Huti-white,female,2020-01-08,Arusha
+16NM_Huti-white_plot611r30c20,Huti-white,female,2020-01-08,Arusha
+NM2018_Huti-white_block_4_1201,Huti-white,female,2020-01-08,Arusha
+NM2018_Huti-white_block_4_1196,Huti-white,female,2020-01-08,Arusha
+NM2018_Huti-white_block_4b_plot236,Huti-white,female,2020-01-08,Arusha
+NM2018_Huti-white_block_4_1201,Huti-white,female,2020-01-08,Arusha
+16NM_ITC1468-Kahuti_plot102_r5c18,ITC1468,female,2020-01-10,Arusha
+16NM_ITC1468-Kahuti_plot76_r4c9,ITC1468,female,2020-01-13,Arusha
+NM2018_Huti-white_block_4b_plot214,Huti-white,female,2020-01-15,Arusha
+16NM_ITC1460-IjihuInkundu_plot274_r14c21,ITC1460,female,2020-01-17,Arusha
+16NM_Huti-white_plot231r11c21,Huti-white,female,2020-01-17,Arusha
+NM2018_Huti-white_block_4b_plot165,Huti-white,female,2020-01-20,Arusha
+16NM_Huti-white_plot778r38c21,Huti-white,female,2020-01-21,Arusha
+16NM_Huti-white_plot547r27c1,Huti-white,female,2020-01-21,Arusha
+16NM_Huti-white_plot379r19c1,Huti-white,female,2020-01-22,Arusha
+16NM_Huti-white_plot253r13c1,Huti-white,female,2020-01-22,Arusha
+16NM_Huti-white_plot135_r7c9,Huti-white,female,2020-01-22,Arusha
+NM2018_Huti-white_block_4b_plot165,Huti-white,female,2020-01-22,Arusha
+16NM_Huti-white_plot152_r8c17,Huti-white,female,2020-01-23,Arusha
+16NM_ITC1460-IjihuInkundu_plot335_r16c2,ITC1460,female,2020-01-23,Arusha
+16NM_Huti-white_plot138_r7c12,Huti-white,female,2020-01-24,Arusha
+16NM_ITC1468-Kahuti_plot41_r2c2,ITC1468,female,2020-02-05,Arusha
+16NM_ITC1460-IjihuInkundu_plot274_r14c21,ITC1460,female,2020-02-05,Arusha
+16NM_Huti-white_plot337r17c1,Huti-white,female,2020-02-05,Arusha
+16NM_Huti-white_plot252r12c1,Huti-white,female,2020-02-05,Arusha
+16NM_Huti-white_plot505r25c1,Huti-white,female,2020-02-10,Arusha
+16NM_ITC1468-Kahuti_plot100_r5c16,ITC1468,female,2020-02-10,Arusha
+16NM_Huti-white_plot146_r7c20,Huti-white,female,2020-02-10,Arusha
+NM2018_ITC1468-kahuti_block_4_1073,ITC1468-kahuti,female,2020-02-10,Arusha
+NM2018_Huti-white_block_4b_plot50,Huti-white,female,2020-02-10,Arusha
+NM2018_Huti-white_block_4b_plot10,Huti-white,female,2020-02-10,Arusha
+NM2018_ITC1468-kahuti_block_4_1051,ITC1468-kahuti,female,2020-02-12,Arusha
+NM2018_Huti-white_block_4b_plot45,Huti-white,female,2020-02-12,Arusha
+NM2018_ITC1468-kahuti_block_4_1051,ITC1468-kahuti,female,2020-02-13,Arusha
+NM2018_Huti-white_block_4b_plot221,Huti-white,female,2020-02-13,Arusha
+16NM_Huti-white_plot128r7c2,Huti-white,female,2020-02-13,Arusha
+16NM_Huti-white_plot164_r8c5,Huti-white,female,2020-02-14,Arusha
+NM2018_Huti-white_block_4b_plot69,Huti-white,female,2020-02-14,Arusha
+NM2018_Huti-white_block_4b_plot70,Huti-white,female,2020-02-14,Arusha
+NM2018_Huti-white_block_4b_plot67,Huti-white,female,2020-02-18,Arusha
+NM2018_Huti-white_block_4b_plot14,Huti-white,female,2020-02-19,Arusha
+NM2018_Huti-white_block_4b_plot67,Huti-white,female,2020-02-19,Arusha
+NM2018_Huti-white_block_4_1001,Huti-white,female,2020-02-26,Arusha
+16NM_MchareLaini_plot246_r12c7,Mchare Laini,female,2020-03-03,Arusha
+16NM_ITC1460-IjihuInkundu_plot290_r14c5,ITC1460,female,2020-03-09,Arusha
+16NM_ITC1455-MchareMlelembo_plot438_r21c18,ITC1455-Mchare Mlelembo,female,2020-03-09,Arusha
+16NM_Huti-white_plot506r25c2,Huti-white,female,2020-03-09,Arusha
+16NM_Huti-white_plot714r34c1,Huti-white,female,2020-03-09,Arusha
+16NM_Huti-white_plot630r30c1,Huti-white,female,2020-03-09,Arusha
+NM2018_ITC1468-kahuti_block_4_1106,ITC1468-kahuti,female,2020-03-09,Arusha
+NM2018_ITC1468-kahuti_block_4_1057,ITC1468-kahuti,female,2020-03-09,Arusha
+16NM_ITC1468-Kahuti_plot40_r2c3,ITC1468,female,2020-03-10,Arusha
+16NM_Huti-white_plot506r25c2,Huti-white,female,2020-03-10,Arusha
+16NM_ITC1468-Kahuti_plot101_r5c17,ITC1468,female,2020-03-10,Arusha
+16NM_Huti-white_plot525r25c21,Huti-white,female,2020-03-10,Arusha
+16NM_Huti-white_plot148_r8c21,Huti-white,female,2020-03-11,Arusha
+16NM_Huti-white_plot567r27c21,Huti-white,female,2020-03-12,Arusha
+NM2018_Huti-white_block_4b_plot239,Huti-white,female,2020-03-12,Arusha
+16NM_Huti-white_plot294r14c1,Huti-white,female,2020-03-12,Arusha
+16NM_Huti-white_plot171_r9c3,Huti-white,female,2020-03-13,Arusha
+NM2018_Huti-white_block_4b_plot156,Huti-white,female,2020-03-13,Arusha
+NM2018_Huti-white_block_4_1237,Huti-white,female,2020-05-20,Arusha
+NM2018_Huti-white_block_4b_plot72,Huti-white,female,2020-05-20,Arusha
+NM2018_Huti-white_block_4b_plot93,Huti-white,female,2020-05-20,Arusha
+NM2018_Huti-white_block_4b_plot30,Huti-white,female,2020-05-20,Arusha
+NM2018_Huti-white_block_4b_plot28,Huti-white,female,2020-05-20,Arusha
+16NM_Huti-white_plot819r39c21,Huti-white,female,2020-05-20,Arusha
+16NM_Huti-white_plot675r33c3,Huti-white,female,2020-05-20,Arusha
+16NM_Huti-white_plot339r17c3,Huti-white,female,2020-05-20,Arusha
+16NM_ITC1468-Kahuti_plot12_r1c12,ITC1468,female,2020-05-20,Arusha
+16NM_ITC1468-Kahuti_plot13_r1c13,ITC1468,female,2020-05-20,Arusha
+16NM_ITC1468-Kahuti_plot27_r2c16,ITC1468,female,2020-05-20,Arusha
+16NM_ITC1468-Kahuti_plot105_r5c21,ITC1468,female,2020-05-20,Arusha
+NM2018_Huti-white_block_4b_plot27,Huti-white,female,2020-05-21,Arusha
+NM2018_Huti-white_block_4b_plot169,Huti-white,female,2020-05-26,Arusha
+NM2018_Huti-white_block_4b_plot76,Huti-white,female,2020-05-26,Arusha
+NM2018_Huti-white_block_4b_plot32,Huti-white,female,2020-05-26,Arusha
+16NM_ITC1468-Kahuti_plot64_r4c21,ITC1468,female,2020-05-26,Arusha
+16NM_Huti-white_plot671r32c2,Huti-white,female,2020-05-26,Arusha
+NM2018_Huti-white_block_4b_plot210,Huti-white,female,2020-06-04,Arusha
+NM2018_Huti-white_block_4b_plot97,Huti-white,female,2020-06-04,Arusha
+NM2018_Huti-white_block_4b_plot38,Huti-white,female,2020-06-04,Arusha
+16NM_ITC1460-IjihuInkundu_plot356_r17c20,ITC1460,female,2020-06-04,Arusha
+16NM_Huti-white_plot545r26c2,Huti-white,female,2020-06-04,Arusha
+NM2018_Huti-white_block_4b_plot136,Huti-white,female,2020-06-08,Arusha
+NM2018_Huti-white_block_4b_plot194,Huti-white,female,2020-06-10,Arusha
+16NM_Huti-white_plot317r16c20,Huti-white,female,2020-06-10,Arusha
+NM2018_Huti-white_block_4_1037,Huti-white,female,2020-06-16,Arusha
+NM2018_ITC1468-kahuti_block_4_1085,ITC1468-kahuti,female,2020-06-16,Arusha
+NM2018_Huti-white_block_4_1056,Huti-white,female,2020-06-17,Arusha
+16NM_Huti-white_plot755r36c2,Huti-white,female,2020-07-06,Arusha
+16NM_ITC1468-Kahuti_plot65_r4c20,ITC1468,female,2020-07-06,Arusha
+16NM_Huti-white_plot399r19c21,Huti-white,female,2020-07-06,Arusha
+16NM_Huti-white_plot166r8c3,Huti-white,female,2020-07-08,Arusha
+16NM_Huti-white_plot610r30c21,Huti-white,female,2020-07-08,Arusha
+NM2018_ITC1468-kahuti_block_4_1052,ITC1468-kahuti,female,2020-07-08,Arusha
+16NM_Huti-white_plot755r36c2,Huti-white,female,2020-07-09,Arusha
+16NM_Huti-white_plot232r12c21,Huti-white,female,2020-07-09,Arusha
+NM2018_Huti-white_block_4_1111,Huti-white,female,2020-07-20,Arusha
+NM2018_Huti-white_block_4_1111,Huti-white,female,2020-07-20,Arusha
+NM2018_Huti-white_block_4b_plot63,Huti-white,female,2020-07-21,Arusha
+16NM_ITC1468-Kahuti_plot37_r2c6,ITC1468,female,2020-07-28,Arusha
+16NM_MchareLaini_plot240_r12c13,Mchare Laini,female,2020-08-11,Arusha
+2018NMMH_NM185-1_B1R11C5Plot155,NM185-1,female,2020-08-17,Arusha
+2018NMMH_ITC1468-kahuti_B1R36C3Plot108,ITC1468-kahuti,female,2020-08-17,Arusha
+2018NMMH_T.2274-9_B3R11C16Plot551,T.2274-9,female,2020-08-17,Arusha
+2018NMMH_T.2274-3_B3R17C13Plot449,T.2274-3,female,2020-08-19,Arusha
+2018NMMH_T.2317-1_B3R1C15Plot505,T.2317-1,female,2020-08-20,Arusha
+NM2018_Huti-white_block_4b_plot35,Huti-white,female,2020-08-20,Arusha
+2018NMMH_T.2203-1_B3R13C14Plot481,T.2203-1,female,2020-08-21,Arusha
+2018NMMH_T.2274-12_B2R18C8Plot270,T.2274-12,female,2020-08-21,Arusha
+16NM_ITC1468-Kahuti_plot68_r4c17,ITC1468,female,2020-09-07,Arusha
+16NM_Huti-white_plot189r9c21,Huti-white,female,2020-09-07,Arusha
+2020PollinationblockGWASBoders_Majimaji_P129R6C1,Majimaji,female,2020-09-07,Arusha
+2020PollinationblockGWASBoders_Majimaji_P138R6C1,Majimaji,female,2020-09-07,Arusha
+2018NMMH_MshaleLaini_B2R9C9Plot297,Mshare laini,female,2020-09-07,Arusha
+2018NMMH_T.2273-2_B1R3C3Plot75,T.2273-2,female,2020-09-07,Arusha
+2018NMMH_T.2317-1_B1R20C3Plot92,T.2317-1,female,2020-09-07,Arusha
+2018NMMH_T.2327-1_B1R24C2Plot60,T.2327-1,female,2020-09-07,Arusha
+2018NMMH_T.2070-1_B1R33C3Plot105,T.2070-1,female,2020-09-07,Arusha
+2018NMMH_ITC1468-kahuti_B1R30C2Plot66,ITC1468-kahuti,female,2020-09-09,Arusha
+2020PollinationblockGWASBoders_TT2_P34R2C1,TT2,female,2020-09-10,Arusha
+2020PollinationblockGWASBoders_Majimaji_P146R6C1,Majimaji,female,2020-09-10,Arusha
+2018NMMH_MshaleLaini_B2R7C9Plot295,Mshare laini,female,2020-09-10,Arusha
+2018NMMH_NM259-1_B2R6C7Plot222,NM259-1,female,2020-09-10,Arusha
+2018NMMH_T.2327-1_B1R24C2Plot60,T.2327-1,female,2020-09-10,Arusha
+2018NMMH_ITC1468-kahuti_B1R30C2Plot66,ITC1468-kahuti,female,2020-09-10,Arusha
+16NM_Huti-white_plot463r23c1,Huti-white,female,2020-09-11,Arusha
+2018NMMH_T.2273-2_B3R9C15Plot513,T.2273-2,female,2020-09-11,Arusha
+NM2018_ITC1468-kahuti_block_4_1240,ITC1468-kahuti,female,2020-09-11,Arusha
+NM2018_Hutigreenbell_block_6_631,ITC1559-Huti_green_bell,female,2020-09-21,Arusha
+2018NMMH_ITC1460-Ijihu_nkundu_B3R10C14Plot478,ITC1460-Ijihu_nkundu,female,2020-09-23,Arusha
+2018NMMH_ITC1460-Ijihu_nkundu_B3R10C14Plot478,ITC1460-Ijihu_nkundu,female,2020-09-23,Arusha
+16NM_Huti-white_plot713r34c2,Huti-white,female,2020-09-28,Arusha
+2020PollinationblockGWASBoders_TT2_P45R2C1,TT2,female,2020-09-28,Arusha
+NM2018_Huti-white_block_4_1029,Huti-white,female,2020-09-28,Arusha
+NM2018_ITC1468-kahuti_block_4_1053,ITC1468-kahuti,female,2020-09-28,Arusha
+2020PollinationblockGWASBoders_Majimaji_P120R5C1,Majimaji,female,2020-09-28,Arusha
+2018NMMH_T.2327-1_B2R6C9Plot294,T.2327-1,female,2020-09-28,Arusha
+2018NMMH_NM258-3_B1R26C1Plot26,NM258-3,female,2020-09-28,Arusha
+2018NMMH_NM259-1_B1R31C5Plot175,NM259-1,female,2020-09-28,Arusha
+2018NMMH_NM275-4_B3R22C13Plot454,NM275-4,female,2020-09-28,Arusha
+2018NMMH_NM258-3_B1R26C1Plot26,NM258-3,female,2020-09-29,Arusha
+2018NMMH_T.1687-1_B2R28C9Plot316,T.1687-1,female,2020-09-29,Arusha
+2020PollinationblockGWASBoders_TT2_P45R2C1,TT2,female,2020-09-29,Arusha
+16NM_Huti-white_plot357r17c21,Huti-white,female,2020-09-30,Arusha
+2020PollinationblockGWASBoders_TT2_P32R2C1,TT2,female,2020-09-30,Arusha
+NM2018_Huti-white_block_4b_plot127,Huti-white,female,2020-09-30,Arusha
+NM2018_Huti-white_block_4b_plot251,Huti-white,female,2020-09-30,Arusha
+2018NMMH_T.2619-15_B3R3C13Plot435,T.2619-15,female,2020-09-30,Arusha
+2018NMMH_T.2203-1_B3R15C14Plot483,T.2203-1,female,2020-09-30,Arusha
+2018NMMH_NM276-3_B3R17C16Plot557,NM276-3,female,2020-09-30,Arusha
+2018NMMH_NM221-1_B2R28C10Plot352,NM221-1,female,2020-09-30,Arusha
+2018NMMH_T.1687-1_B3R29C16Plot569,T.1687-1,female,2020-09-30,Arusha
+16NM_ITC1455-MchareMlelembo_plot441_r21c21,ITC1455-Mchare Mlelembo,female,2020-10-02,Arusha
+16NM_Huti-white_plot316r16c21,Huti-white,female,2020-10-02,Arusha
+2018NMMH_MshaleLaini_B3R6C15Plot510,Mshare laini,female,2020-10-19,Arusha
+NM2018_Huti-white_block_4b_plot215,Huti-white,female,2020-10-20,Arusha
+2020PollinationblockGWASBoders_TT2_P50R2C1,TT2,female,2020-10-30,Arusha
+2020PollinationblockGWASBoders_TT2_P51R2C1,TT2,female,2020-11-11,Arusha
+2018NMMH_T.2070-1_B3R6C13Plot438,T.2070-1,female,2020-11-12,Arusha
+NM2018_Huti-white_block_4b_plot10,Huti-white,female,2020-11-12,Arusha
+16NM_ITC1468-Kahuti_plot67_r4c18,ITC1468,female,2020-11-17,Arusha
+2020PollinationBlock2b_Mchare_Block6R4C5P526,Mchare,female,2020-11-17,Arusha
+2018NMMH_ITC1455-MchareMlelembo_B3R22C16Plot562,ITC1455-Mchare Mlelembo,female,2020-11-30,Arusha
+16NM_ITC1468-Kahuti_plot30_r2c13,ITC1468,female,2020-12-01,Arusha
+NM2018_ITC1468-kahuti_block_4_1086,ITC1468-kahuti,female,2020-12-01,Arusha
+2018NMMH_NM185-1_B1R10C5Plot154,NM185-1,female,2020-12-02,Arusha
+2018NMMH_T.2274-4_B2R14C9Plot302,T.2274-4,female,2020-12-04,Arusha
+16NM_Huti-white_plot800r39c2,Huti-white,female,2020-12-04,Arusha
+16NM_ITC1468-Kahuti_plot55_r3c13,ITC1468,female,2020-12-04,Arusha
+16NM_ITC1468-Kahuti_plot19_r1c19,ITC1468,female,2020-12-04,Arusha
+NM2018_ITC1468-kahuti_block_4_1083,ITC1468-kahuti,female,2020-12-21,Arusha
+NM2018_Huti-white_block_4_1074,Huti-white,female,2020-12-21,Arusha
+NM2018_Huti-white_block_4b_plot146,Huti-white,female,2020-12-21,Arusha
+NM2018_Huti-white_block_4b_plot213,Huti-white,female,2020-12-21,Arusha
+NM2018_Huti-white_block_4b_plot220,Huti-white,female,2020-12-21,Arusha
+2020PollinationblockGWASBoders_Majimaji_P142R6C1,Majimaji,female,2020-12-21,Arusha
+2020PollinationblockGWASBoders_Majimaji_P140R6C1,Majimaji,female,2020-12-21,Arusha
+16NM_ITC1455-MchareMlelembo_plot414_r20c7,ITC1455-Mchare Mlelembo,female,2020-12-21,Arusha
+16NM_Huti-white_plot83r4c2,Huti-white,female,2020-12-21,Arusha
+2020PollinationBlock2b_Mchare_Block6R4C5P265,Mchare,female,2020-12-21,Arusha
+16NM_Huti-white_plot107r6c20,Huti-white,female,2020-12-21,Arusha
+16NM_Huti-white_plot444r22c19,Huti-white,female,2020-12-21,Arusha
+16NM_Huti-white_plot612r30c19,Huti-white,female,2020-12-21,Arusha
+16NM_Huti-white_plot502r24c3,Huti-white,female,2020-12-21,Arusha
+2018NMMH_MshaleLaini_B3R4C15Plot508,Mshare laini,female,2020-12-21,Arusha
+2018NMMH_T.2273-2_B3R7C15Plot511,T.2273-2,female,2020-12-21,Arusha
+2018NMMH_T.2203-1_B3R13C14Plot481,T.2203-1,female,2020-12-21,Arusha
+2018NMMH_Huti-white_B3R21C14Plot489,Huti-white,female,2020-12-21,Arusha
+2018NMMH_T.2731-2_B3R31C15Plot535,T.2731-2,female,2020-12-21,Arusha
+2018NMMH_NM237-8_B2R30C11Plot390,NM237-8,female,2020-12-21,Arusha
+2018NMMH_T.2731-5_B2R31C11Plot391,T.2731-5,female,2020-12-21,Arusha
+2018NMMH_T.2274-8_B1R28C5Plot172,T.2274-12,female,2020-12-21,Arusha
+2018NMMH_T.2273-1_B2R21C11Plot381,T.2273-1,female,2020-12-21,Arusha
+2018NMMH_T.1768-1_B2R18C7Plot234,T.1768-1,female,2020-12-21,Arusha
+2018NMMH_T.2691-9_B2R13C7Plot229,T.2691-9,female,2020-12-21,Arusha
+2020PollinationBlock2b_Mchare_Block6R4C5P231,Mchare,female,2020-12-22,Arusha
+NM2018_Huti-white_block_4b_plot157,Huti-white,female,2020-12-23,Arusha
+NM2018_Huti-white_block_4b_plot252,Huti-white,female,2020-12-23,Arusha
+NM2018_Huti-white_block_4b_plot140,Huti-white,female,2020-12-23,Arusha
+2020PollinationBlock2b_Mchare_Block6R4C5P580,Mchare,female,2020-12-23,Arusha
+2018NMMH_NM237-8_B3R13C13Plot445,NM237-8,female,2020-12-23,Arusha
+2018NMMH_T.2274-8_B1R28C5Plot172,T.2274-12,female,2020-12-23,Arusha
+2020PollinationBlock2b_Mchare_Block6R4C5P569,Mchare,female,2020-12-31,Arusha
+2018NMMH_T.2274-4_B2R13C9Plot301,T.2274-4,female,2020-12-31,Arusha
+2018NMMH_NM226-5_B2R34C10Plot358,NM226-5,female,2021-01-05,Arusha
+NM2018_ITC1468-kahuti_block_4_1128,ITC1468-kahuti,female,2021-01-06,Arusha
+NM2018_Huti-white_block_4b_plot240,Huti-white,female,2021-01-06,Arusha
+2020PollinationblockGWASBoders_Majimaji_P109R5C1,Majimaji,female,2021-01-06,Arusha
+2018NMMH_NM237-8_B3R14C13Plot446,NM237-8,female,2021-01-06,Arusha
+16NM_Huti-white_plot120_r6c7,Huti-white,female,2021-01-07,Arusha
+16NM_Huti-white_plot441r21c21,Huti-white,female,2021-01-11,Arusha
+2018NMMH_ITC0249-Calcutta4_B1R12C6Plot192,ITC0249-Calcutta 4,female,2021-01-13,Arusha
+16NM_Huti-white_plot294r14c1,Huti-white,female,2021-01-14,Arusha
